@@ -1,0 +1,16 @@
+{
+    "sections": {
+        "hero": {
+            "type": "hero"
+        },
+        "productos": {
+            "type": "productos"
+        }
+    },
+    "layout": "theme",
+    "wrapper": "",
+    "order": [
+        "hero",
+        "productos"
+    ]
+}
