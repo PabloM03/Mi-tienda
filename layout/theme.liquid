@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="{{ request.locale.iso_code }}"><head><meta charset="UTF-8">
+<title>Mi tienda demo</title><link rel="stylesheet" href="css/style.css">
+<script src="{{ '_helper.js' | asset_url }}" type="text/javascript"></script>{{ content_for_header }}</head>
+<body li-page="index">
+
+ {{ content_for_layout }} <script src="{{ 'script.js' | asset_url }}"></script>
+</body>
+</html>
