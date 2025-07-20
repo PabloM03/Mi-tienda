@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://moddys-watches.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://moddys-watches.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://moddys-watches.com/collections/panerai.atom"/>
+  <title>Moddys Custom Watches</title>
+  <updated>2025-04-10T18:54:35+02:00</updated>
+  <author>
+    <name>Moddys Custom Watches</name>
+  </author>
+  <entry>
+    <id>https://moddys-watches.com/products/11943160709460</id>
+    <published>2025-04-10T18:54:35+02:00</published>
+    <updated>2025-04-10T18:54:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/paneiko-brown-leather-3"/>
+    <title>Paneiko | Brown Leather</title>
+    <s:type>Panerai</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-panerai-luminor-brown-leather-moddys-watches4.webp?v=1744523659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Panerai<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Inspired by the<b> iconic Luminor design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Luminor. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span></span></p>
+<p><span>Carefully <b>hand-assembled by experts</b> with the next features:</span><span></span></p>
+<ul>
+<li><span><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span><b>Thickness:</b> 12mm</span></li>
+<li><span><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span><b>Luminova:</b> Yes</span></li>
+<li><span><b>Case:</b> 316L brushed stainless steel</span></li>
+<li><span><b>Crown:</b> Screwed</span></li>
+<li><span><b>Wrist size: </b>14,5cm to 22cm (adjustable)</span></li>
+<li><span><b>Lugs:</b> 20mm</span></li>
+<li><span><b>Bracelet:</b> Leather (with a security buckle)</span></li>
+<li><span><b id="docs-internal-guid-56199750-7fff-4b40-a12a-6e6b3d621505">Case back: </b>Crystal (seen movement)</span></li>
+<li><span><b><b id="docs-internal-guid-29523240-7fff-61c3-452a-27421948a7c4">Water resistance: </b></b>3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943160709460</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943160709460</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943155695956</id>
+    <published>2025-04-10T18:54:03+02:00</published>
+    <updated>2025-04-10T18:54:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/paneiko-sand-leather-3"/>
+    <title>Paneiko | Sand Leather</title>
+    <s:type>Panerai</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-panerai-luminor-sand-leather-moddys-watches3.webp?v=1747087465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Panerai<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Inspired by the<b> iconic Luminor design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Luminor. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span></span></p>
+<p><span>Carefully <b>hand-assembled by experts</b> with the next features:</span><span></span></p>
+<ul>
+<li><span><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span><b>Thickness:</b> 12mm</span></li>
+<li><span><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span><b>Luminova:</b> Yes</span></li>
+<li><span><b>Case:</b> 316L brushed stainless steel</span></li>
+<li><span><b>Crown:</b> Screwed</span></li>
+<li><span><b>Wrist size: </b>14,5cm to 22cm (adjustable)</span></li>
+<li><span><b>Lugs:</b> 20mm</span></li>
+<li><span><b>Bracelet:</b> Leather (with a security buckle)</span></li>
+<li><span><b id="docs-internal-guid-56199750-7fff-4b40-a12a-6e6b3d621505">Case back: </b>Crystal (seen movement)</span></li>
+<li><span><b><b id="docs-internal-guid-29523240-7fff-61c3-452a-27421948a7c4">Water resistance: </b></b>3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943155695956</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943155695956</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943150747988</id>
+    <published>2025-04-10T18:53:30+02:00</published>
+    <updated>2025-04-10T18:53:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/paneiko-black-rubber-3"/>
+    <title>Paneiko | Black Rubber</title>
+    <s:type>Panerai</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-panerai-luminor-black-rubber-moddys-watches3.webp?v=1744523497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Panerai<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Inspired by the<b> iconic Luminor design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Luminor. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span></span></p>
+<p><span>Carefully <b>hand-assembled by experts</b> with the next features:</span><span></span></p>
+<ul>
+<li><span><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span><b>Thickness:</b> 12mm</span></li>
+<li><span><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span><b>Luminova:</b> Yes</span></li>
+<li><span><b>Case:</b> 316L brushed stainless steel</span></li>
+<li><span><b>Crown:</b> Screwed</span></li>
+<li><span><b>Wrist size: </b>14,5cm to 22cm (adjustable)</span></li>
+<li><span><b>Lugs:</b> 20mm</span></li>
+<li><span><b>Bracelet:</b> Rubber (with a security buckle)</span></li>
+<li><span><b id="docs-internal-guid-56199750-7fff-4b40-a12a-6e6b3d621505">Case back: </b>Crystal (seen movement)</span></li>
+<li><span><b><b id="docs-internal-guid-29523240-7fff-61c3-452a-27421948a7c4">Water resistance: </b></b>3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943150747988</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943150747988</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

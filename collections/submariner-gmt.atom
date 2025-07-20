@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://moddys-watches.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://moddys-watches.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://moddys-watches.com/collections/submariner-gmt.atom"/>
+  <title>Moddys Custom Watches</title>
+  <updated>2025-05-13T03:30:11+02:00</updated>
+  <author>
+    <name>Moddys Custom Watches</name>
+  </author>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841673044</id>
+    <published>2025-05-13T03:30:11+02:00</published>
+    <updated>2025-05-13T03:30:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-marinemaster-silver-25"/>
+    <title>Seikomariner | Silver</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-yatch-master-silver-oyster-moddys-watches-rolex-40mm3_626f54b3-77bf-4796-b50c-cc7eabbe51f3.webp?v=1747099838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Yatch-Master design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod <meta charset="utf-8">Yatch-Master. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-marinestar-grey</s:tag>
+    <s:tag>Seiko-mod-marinestar-greymov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841673044</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841673044</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841673044</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841673044</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841640276</id>
+    <published>2025-05-13T03:29:44+02:00</published>
+    <updated>2025-05-13T03:29:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-rootbeer-rose-gold-25"/>
+    <title>GMTeiko | Rootbeer</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-root-beer-jubilee-moddys-rolex4_61e095c4-2638-49c1-bb12-df70f9440cca.webp?v=1747099807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-gmt-rootbeer-rose-gold</s:tag>
+    <s:tag>Seiko-mod-gmt-rootbeer-rose-goldmov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841640276</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841640276</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841640276</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841640276</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841607508</id>
+    <published>2025-05-13T03:29:16+02:00</published>
+    <updated>2025-05-13T03:29:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-marinemaster-black-25"/>
+    <title>Seikomariner | Black</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-yatch-master-black-oysterflex-moddys-watches-rolex-40mm3_8ff7180f-c6f2-48fe-ab10-71d9f3a4a948.webp?v=1747099781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Yatch-Master design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod <meta charset="utf-8">Yatch-Master. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> Rubber (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-marinestar-black</s:tag>
+    <s:tag>Seiko-mod-marinestar-blackmov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841607508</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841607508</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841607508</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841607508</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841541972</id>
+    <published>2025-05-13T03:28:48+02:00</published>
+    <updated>2025-05-13T03:28:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-marinemaster-rose-gold-black-25"/>
+    <title>Seikomariner | Rose Gold - Black</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-yatch-master-rose-gold-oysteflexr-moddys-watches-rolex-40mm3_44d1bbc0-2fa6-4c93-8e62-bae2a674dded.webp?v=1747099753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Yatch-Master design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod <meta charset="utf-8">Yatch-Master. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> Rubber (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-marinestar-rose-gold-black</s:tag>
+    <s:tag>Seiko-mod-marinestar-rose-gold-blackmov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841541972</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841541972</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841541972</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841541972</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841443668</id>
+    <published>2025-05-13T03:28:18+02:00</published>
+    <updated>2025-05-13T03:28:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-marinemaster-rose-gold-25"/>
+    <title>Seikomariner | Rose Gold</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-yatch-master-rose_gold-oyster-moddys-watches-rolex-40mm3_0faee7ca-0609-4a0c-a7ba-7374a86e9485.webp?v=1747099725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Yatch-Master design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod <meta charset="utf-8">Yatch-Master. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-marinestar-2</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841443668</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841443668</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841443668</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841443668</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841410900</id>
+    <published>2025-05-13T03:27:49+02:00</published>
+    <updated>2025-05-13T03:27:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-batman-25"/>
+    <title>GMTeiko | Batman</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-batman-oyster-moddys-rolex4_ca82aba6-dee6-477f-8701-4862e0efe843.webp?v=1747099694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-gmt-batman</s:tag>
+    <s:tag>Seiko-mod-gmt-batmanmov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841410900</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841410900</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841410900</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841410900</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841378132</id>
+    <published>2025-05-13T03:27:18+02:00</published>
+    <updated>2025-05-13T03:27:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-kermit-25"/>
+    <title>Seikomariner | Kermit</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-kermit-green-oyster-moddys-watches-rolex4_e3c58f3b-baf3-4ccb-9581-4de2521cae4b.webp?v=1747099666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Submariner design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Submariner. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-kermit</s:tag>
+    <s:tag>Seiko-mod-submariner-kermitmov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841378132</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841378132</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841378132</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841378132</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996838232404</id>
+    <published>2025-05-13T03:26:48+02:00</published>
+    <updated>2025-05-13T03:26:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-blue-two-tone-25"/>
+    <title>Seikomariner | Blue (Two Tones)</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-blue-gold-oyster-moddys-watches-rolex3_a16dbc33-1f54-4df5-8d84-282bdcb566e7.webp?v=1747099635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Submariner design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Submariner. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-blue-two-tone</s:tag>
+    <s:tag>Seiko-mod-submariner-blue-two-tonemov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996838232404</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996838232404</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996838232404</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996838232404</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996833710420</id>
+    <published>2025-05-13T03:26:18+02:00</published>
+    <updated>2025-05-13T03:26:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-black-25"/>
+    <title>Seikomariner | Black</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-black-oyster-moddys-watches-rolex4_8f93cb2a-c31e-4625-9508-2f364d9fc97f.webp?v=1747099604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Submariner design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Submariner. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-black</s:tag>
+    <s:tag>Seiko-mod-submariner-blackmov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996833710420</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996833710420</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996833710420</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996833710420</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996831121748</id>
+    <published>2025-05-13T03:25:49+02:00</published>
+    <updated>2025-05-13T03:25:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-pepsi-25"/>
+    <title>GMTeiko | Pepsi</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-pepsi-jubilee-moddys-rolex3_c2d65355-1bc7-4c4c-bbe9-51277f68682b.webp?v=1747099575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-gmt-pepsi</s:tag>
+    <s:tag>Seiko-mod-gmt-pepsimov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831121748</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831121748</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831121748</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831121748</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996831088980</id>
+    <published>2025-05-13T03:25:21+02:00</published>
+    <updated>2025-05-13T03:25:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-black-two-tones-25"/>
+    <title>Seikomariner | Black (Two Tones)</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-black-gold-oyster-moddys-watches-rolex4_2a9ca04a-1492-4275-92cf-97cd054bec65.webp?v=1747099547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            279.95 - 299.95
+            <a href="https://moddys-watches.com/products/seiko-mod-submariner-black-two-tones-25">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Submariner design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Submariner. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-black-two-tone</s:tag>
+    <s:tag>Seiko-mod-submariner-black-two-tonemov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831088980</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">279.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831088980</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831088980</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831088980</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996831023444</id>
+    <published>2025-05-13T03:24:24+02:00</published>
+    <updated>2025-05-13T03:24:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-vintage-25"/>
+    <title>Seikomariner | Vintage</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-vintage-comex-oyster-moddys-watches-rolex1_6bc244f9-7807-4737-8ef1-7acd8181264a.webp?v=1747099490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Submariner Vintage design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Submariner Vintage. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Acrylic curved, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-vintage-3</s:tag>
+    <s:tag>seiko-mod-submariner-vintage-3mov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831023444</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831023444</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831023444</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831023444</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996829483348</id>
+    <published>2025-05-13T03:11:37+02:00</published>
+    <updated>2025-05-13T03:11:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-coke-25"/>
+    <title>GMTeiko | Coke</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-coke-oyster-moddys-rolex4_71ae730a-81a0-48b1-8f5c-fcdfd7848dec.webp?v=1747098723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829483348</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829483348</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829483348</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829483348</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996829417812</id>
+    <published>2025-05-13T03:11:09+02:00</published>
+    <updated>2025-05-13T03:11:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-sprite-1-25"/>
+    <title>GMTeiko | Sprite</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-sprite-green-jubilee-moddys-rolex3_fa0c10ac-2d19-4ac0-8947-58defd7deea4.webp?v=1747098694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829417812</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829417812</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829417812</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829417812</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996829352276</id>
+    <published>2025-05-13T03:10:42+02:00</published>
+    <updated>2025-05-13T03:10:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-rose-gold-gmt-rootbeer-25"/>
+    <title>GMTeiko | Rose Gold Rootbeer</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-root-beer-rose-gold-jubilee-moddys-rolex2_7ffad293-e46b-4c01-ba25-23b648a9ecdd.webp?v=1747098666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829352276</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829352276</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829352276</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829352276</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996829221204</id>
+    <published>2025-05-13T03:09:15+02:00</published>
+    <updated>2025-05-13T03:09:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-bruce-wayne-25"/>
+    <title>GMTeiko | Bruce Wayne</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-bruce-wayne-jubilee-moddys-rolex3_73d35b8e-8f65-43d7-8feb-f82e4ce956be.webp?v=1747098581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-gmt-batman</s:tag>
+    <s:tag>Seiko-mod-gmt-batmanmov</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829221204</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829221204</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829221204</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829221204</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996827320660</id>
+    <published>2025-05-13T03:01:41+02:00</published>
+    <updated>2025-05-13T03:01:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-gold-25"/>
+    <title>GMTeiko | Gold</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-gold-jubilee-moddys-rolex3_47c35bf5-1c39-4a7b-b921-359585a2c590.webp?v=1747098130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-gmt-batman</s:tag>
+    <s:tag>Seiko-mod-gmt-batmanmov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827320660</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827320660</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827320660</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827320660</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996827156820</id>
+    <published>2025-05-13T03:01:14+02:00</published>
+    <updated>2025-05-13T03:01:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-gmt-silver-gold-25"/>
+    <title>GMTeiko | Silver | Gold</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-gmt-silver-gold-jubilee-moddys-rolex4_ab35584e-7e09-44c7-9c6b-a8e906d16a1e.webp?v=1747115513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the<strong> iconic GMT design</strong>, and featuring the prestigious <strong>Seiko NH34 automatic movement</strong>, we present the Seiko Mod GMT. <strong>A 40 mm high-end quality watch</strong> combining the perfect alliance between excellence and accessibility.</p>
+<p>Carefully <strong>hand-assembled by experts</strong> with the next features:</p>
+<ul>
+<li>
+<strong>Diameter:</strong> 40mm (excluding the crown)</li>
+<li>
+<strong>Movement:</strong> Seiko NH34 automatic movement</li>
+<li>
+<strong>Thickness:</strong> 12mm</li>
+<li>
+<strong>Glass:</strong> Sapphire, anti-scratch with anti-reflective treatment</li>
+<li>
+<strong>Luminova:</strong> Yes</li>
+<li>
+<strong>Case:</strong> 316L stainless steel</li>
+<li>
+<strong>Crown:</strong> Screwed</li>
+<li>
+<strong>Bezel:</strong> Ceramic</li>
+<li>
+<strong>Wrist size:</strong> 14,5cm to 22cm (adjustable)</li>
+<li>
+<strong>Lugs:</strong> 20mm</li>
+<li>
+<strong>Bracelet:</strong> 316L stainless steel (with a security clasp)</li>
+<li>
+<strong>Case back:</strong> Crystal (seen movement) / Steel (closed back)</li>
+<li>
+<strong>Water resistance:</strong> 3 ATM</li>
+<li>
+<strong>Dual time function (GMT):</strong> Works</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-gmt-batman</s:tag>
+    <s:tag>Seiko-mod-gmt-batmanmov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827156820</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827156820</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827156820</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996827156820</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996826992980</id>
+    <published>2025-05-13T03:00:44+02:00</published>
+    <updated>2025-05-13T03:00:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-deepsea-25"/>
+    <title>Seikomariner | Deepsea</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-deepsea-oyster-moddys-watches-rolex-44mm3_35b6db0c-dad0-44bb-be24-1c7e6fb77d09.webp?v=1747098071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            339.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Deepsea design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Deepsea. <b>A 44 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 44mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-black</s:tag>
+    <s:tag>Seiko-mod-submariner-blackmov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996826992980</id>
+      <title>No logo</title>
+      <s:price currency="EUR">339.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996826992980</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">339.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996826763604</id>
+    <published>2025-05-13T03:00:16+02:00</published>
+    <updated>2025-05-13T03:00:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-submariner-hulk-25"/>
+    <title>Seikomariner | Hulk</title>
+    <s:type>Submariner / GMT</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-submariner-hulk-green-oyster-moddys-watches-rolex-40mm3_2a1d9625-d3b9-4ed2-b26d-441c8a855aed.webp?v=1747098041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Submariner / GMT<br>
+        <strong>Price: </strong>
+            319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Submariner design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Submariner. <b>A 40 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 40mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement) / Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-submariner-kermit</s:tag>
+    <s:tag>Seiko-mod-submariner-kermitmov</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996826763604</id>
+      <title>No logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996826763604</id>
+      <title>No logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996826763604</id>
+      <title>Seiko logo / Steel (closed back)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996826763604</id>
+      <title>Seiko logo / Crystal (seen movement)</title>
+      <s:price currency="EUR">319.95</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
