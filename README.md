@@ -8,8 +8,6 @@ To generate Liquid templates for the downloaded HTML pages, run:
 python scripts/convert_html_to_liquid.py
 ```
 
-The script will create minimal templates that reference the dynamic sections in
-the theme so the content is pulled from Shopify. It scans `pages/`, `policies/`,
-`collections/`, `products/`, `blogs/` (and their articles), and now `apps/`.
-The resulting Liquid templates are placed under `theme/templates/generated/`.
+The script copies the HTML body of each downloaded page directly into a matching Liquid template. It scans `pages/`, `policies/`, `collections/`, `products/`, `blogs/` (and their articles), and `apps/`. The resulting templates are saved under `theme/templates/generated/`.
 
+After running the script, zip the contents of the `theme` directory and upload the archive in your Shopify admin to install the theme.
