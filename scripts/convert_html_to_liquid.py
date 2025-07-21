@@ -12,6 +12,7 @@ SOURCE_DIRS = {
     'blogs': 'blog',
     os.path.join('blogs', 'news'): 'article',
     'apps': 'page',
+
 }
 
 # Destination for generated liquid templates
