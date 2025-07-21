@@ -8,8 +8,11 @@ SOURCE_DIRS = {
     'pages': 'page',
     'products': 'product',
     'collections': 'collection',
+    'policies': 'page',
     'blogs': 'blog',
     os.path.join('blogs', 'news'): 'article',
+    'apps': 'page',
+
 }
 
 # Destination for generated liquid templates
