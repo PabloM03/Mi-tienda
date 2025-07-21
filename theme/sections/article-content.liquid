@@ -1,0 +1,11 @@
+{% comment %}Blog article content section{% endcomment %}
+<section class="article">
+  <h1>{{ article.title }}</h1>
+  <div class="rte">{{ article.content }}</div>
+</section>
+
+{% schema %}
+{
+  "name": "Article content"
+}
+{% endschema %}
