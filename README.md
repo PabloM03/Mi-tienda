@@ -9,4 +9,6 @@ python scripts/convert_html_to_liquid.py
 ```
 
 Generated templates will be placed in `theme/templates/generated/`.
+These files are only for migration reference and should remain untracked.
+The directory is listed in `.gitignore` to prevent accidental commits.
 
