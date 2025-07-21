@@ -14,23 +14,20 @@
     </h1>
     <nav class="primary-nav">
       <ul>
-        <li class="has-submenu">
-          <a href="/collections/shop-all">Shop</a>
-          <ul class="submenu">
-            <li><a href="/collections/shop-all">Shop All</a></li>
-            <li><a href="/collections/daytona">Seitona</a></li>
-            <li><a href="/collections/datejust">Seikojust &amp; Oysteiko</a></li>
-            <li><a href="/collections/submariner-gmt">Seikomariner / GMTeiko</a></li>
-            <li><a href="/collections/royal-oak">Royal Seikoak</a></li>
-            <li><a href="/collections/santos-ballon-bleu">Santeiko</a></li>
-            <li><a href="/collections/nautilus-aquanaut">Nautiko &amp; Seikonaut</a></li>
-            <li><a href="/collections/panerai">Paneiko</a></li>
-            <li><a href="/collections/speedmaster-seamaster">Seikomaster &amp; Speedseiko</a></li>
-          </ul>
-        </li>
-        <li><a href="/collections/configurator">Configurator</a></li>
-        <li><a href="/pages/faq">FAQ</a></li>
-        <li><a href="/pages/contact-us">Contact</a></li>
+        {% assign menu = linklists[section.settings.main_menu] %}
+        {% for link in menu.links %}
+          <li{% if link.links.size > 0 %} class="has-submenu"{% endif %}>
+            <a href="{{ link.url }}">{{ link.title }}</a>
+            {% if link.links.size > 0 %}
+              <ul class="submenu">
+                {% for child in link.links %}
+                  <li><a href="{{ child.url }}">{{ child.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+
       </ul>
     </nav>
     <nav class="secondary-nav">
@@ -49,6 +46,13 @@
       "type": "image_picker",
       "id": "logo",
       "label": "Logo"
+    },
+    {
+      "type": "link_list",
+      "id": "main_menu",
+      "label": "Main menu",
+      "default": "main-menu"
+
     }
   ]
 }
