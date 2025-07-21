@@ -1,6 +1,12 @@
-# Mi Tienda Static Site
+# Migration helper
 
-This repository contains a static mirror of the "Mi Tienda" storefront. The goal is to convert this static HTML site into a functional Shopify theme so it can be installed on a Shopify store and take advantage of Shopify's commerce features while maintaining the existing design.
+This repository contains the downloaded static version of the site and a lightweight Shopify theme under `theme/`.
 
-For details on how to package the theme and upload it to your store, see [theme/README.md](theme/README.md).
+To quickly convert remaining static HTML files into Liquid templates, run:
+
+```bash
+python scripts/convert_html_to_liquid.py
+```
+
+Generated templates will be placed in `theme/templates/generated/`.
 
