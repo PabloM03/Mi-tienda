@@ -11,3 +11,4 @@ The theme includes a basic layout with header and footer sections. The homepage 
 - **Featured collection**: choose a collection and number of products to display.
 
 Templates exist for products, collections, blogs, pages, cart and search.
+
