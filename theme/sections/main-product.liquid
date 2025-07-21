@@ -4,6 +4,7 @@
     {% for media in product.media %}
       <img src="{{ media | img_url: '600x' }}" alt="{{ media.alt | escape }}">
     {% endfor %}
+
   </div>
   <div class="product-details">
     <h1>{{ product.title }}</h1>
@@ -16,6 +17,7 @@
         {% endfor %}
       </select>
     {% endif %}
+
     <div class="product-description">{{ product.description }}</div>
     {% form 'product', product %}
       <button type="submit">Add to cart</button>

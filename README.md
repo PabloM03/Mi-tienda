@@ -9,3 +9,4 @@ python scripts/convert_html_to_liquid.py
 ```
 
 Generated templates will be placed in `theme/templates/generated/`.
+
