@@ -1,0 +1,11 @@
+<h1>Search</h1>
+{% if search.performed %}
+  <p>{{ search.results_count }} results for '{{ search.terms }}'</p>
+  {% for item in search.results %}
+    <div>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </div>
+  {% endfor %}
+{% else %}
+  <p>Use the search bar to find products.</p>
+{% endif %}

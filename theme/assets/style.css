@@ -1,0 +1,9 @@
+/* Placeholder CSS for the Shopify theme */
+.site-header, .site-footer {
+  padding: 20px;
+}
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
