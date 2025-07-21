@@ -8,3 +8,4 @@ To use it:
 
 The layout now uses separate header and footer sections and simple templates for
 products, collections, blogs, and pages.
+
