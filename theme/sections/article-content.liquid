@@ -1,0 +1,15 @@
+{% comment %}Full article content with featured image{% endcomment %}
+<section class="article">
+  <h1>{{ article.title }}</h1>
+  <p class="article-meta">{{ article.published_at | date: "%B %d, %Y" }}</p>
+  {% if article.image %}
+    <img src="{{ article.image | img_url: '800x' }}" alt="{{ article.title }}">
+  {% endif %}
+  <div class="rte">{{ article.content }}</div>
+</section>
+
+{% schema %}
+{
+  "name": "Article content"
+}
+{% endschema %}
