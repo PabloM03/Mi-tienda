@@ -22,4 +22,12 @@
   width: calc(25% - 20px);
   text-align: center;
 }
+form input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+}
+form button {
+  padding: 10px 20px;
+}
 

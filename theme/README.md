@@ -12,3 +12,5 @@ The theme includes a basic layout with header and footer sections. The homepage 
 
 Templates exist for products, collections, blogs, pages, cart and search.
 
+Additional templates are provided under `templates/customers` for customer login, registration and account pages. These give the theme basic customer account functionality out of the box.
+
