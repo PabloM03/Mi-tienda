@@ -1,0 +1,32 @@
+{% comment %}Featured collection section{% endcomment %}
+<div class="featured-collection">
+  <h2>{{ section.settings.title }}</h2>
+  <div class="product-grid">
+    {% assign collection_handle = section.settings.collection %}
+    {% if collections[collection_handle] != blank %}
+      {% for product in collections[collection_handle].products | limit: section.settings.products_count %}
+      <div class="product-item">
+        <a href="{{ product.url }}">
+          <img src="{{ product.featured_image | img_url: '300x' }}" alt="{{ product.title }}">
+          <p>{{ product.title }}</p>
+        </a>
+        <span>{{ product.price | money }}</span>
+      </div>
+      {% endfor %}
+    {% else %}
+      <p>No products found.</p>
+    {% endif %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Featured collection",
+  "settings": [
+    {"type": "collection", "id": "collection", "label": "Collection"},
+    {"type": "number", "id": "products_count", "label": "Products to show", "default": 4},
+    {"type": "text", "id": "title", "label": "Heading", "default": "Featured products"}
+  ],
+  "presets": [{"name": "Featured collection"}]
+}
+{% endschema %}

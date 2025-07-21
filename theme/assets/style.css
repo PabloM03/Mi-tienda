@@ -1,0 +1,24 @@
+/* Placeholder CSS for the Shopify theme */
+.site-header, .site-footer {
+  padding: 20px;
+}
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+.hero {
+  padding: 60px 20px;
+  text-align: center;
+  background-size: cover;
+  color: #fff;
+}
+.featured-collection .product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.product-item {
+  width: calc(25% - 20px);
+  text-align: center;
+}
