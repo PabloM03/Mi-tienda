@@ -1,3 +1,9 @@
+{% comment %}Main product layout matching the original design{% endcomment %}
+<section class="product">
+  <div class="product-images">
+    {% for media in product.media %}
+      <img src="{{ media | img_url: '600x' }}" alt="{{ media.alt | escape }}">
+    {% endfor %}
 {% comment %}Main product details{% endcomment %}
 <section class="product">
   <div class="product-media">
@@ -6,6 +12,15 @@
   <div class="product-details">
     <h1>{{ product.title }}</h1>
     <div class="product-price">{{ product.price | money }}</div>
+    {% if product.variants.size > 1 %}
+      <label for="product-select">Options</label>
+      <select id="product-select" name="id">
+        {% for variant in product.variants %}
+          <option value="{{ variant.id }}">{{ variant.title }} - {{ variant.price | money }}</option>
+        {% endfor %}
+      </select>
+    {% endif %}
+
     <div class="product-description">{{ product.description }}</div>
     {% form 'product', product %}
       <button type="submit">Add to cart</button>
