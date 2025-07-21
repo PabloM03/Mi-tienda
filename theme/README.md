@@ -1,11 +1,14 @@
 # Shopify Theme
 
-This directory provides a minimal Shopify theme generated from the static HTML.
+This directory packages the static site as a lightweight Shopify theme.
 
-To use it:
-1. Zip the `theme` directory contents.
-2. Upload the zip file in your Shopify admin as a new theme.
+## Usage
+1. Zip the contents of the `theme` folder.
+2. Upload the zip in your Shopify admin to add the theme.
 
-The layout now uses separate header and footer sections and simple templates for
-products, collections, blogs, and pages.
+The theme includes a basic layout with header and footer sections. The homepage uses two dynamic sections:
+- **Hero**: customizable title, text, background image and optional button.
+- **Featured collection**: choose a collection and number of products to display.
+
+Templates exist for products, collections, blogs, pages, cart and search.
 

@@ -1,13 +1,10 @@
 [
   {
-    "name": "General",
+    "name": "Theme settings",
     "settings": [
-      {
-        "type": "text",
-        "id": "hero_title",
-        "label": "Hero Title",
-        "default": "Welcome"
-      }
+      {"type": "color", "id": "primary_color", "label": "Primary color", "default": "#000000"},
+      {"type": "color", "id": "secondary_color", "label": "Secondary color", "default": "#ffffff"}
+
     ]
   }
 ]
