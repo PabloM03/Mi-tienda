@@ -8,6 +8,8 @@ To quickly convert remaining static HTML files into Liquid templates, run:
 python scripts/convert_html_to_liquid.py [--dest DIR]
 ```
 
-Generated templates will be placed in `theme/templates/generated/` by default.
-Use `--dest` to specify a different output directory.
+Generated templates will be placed in `theme/templates/generated/`.
+These files are only for migration reference and should remain untracked.
+The directory is listed in `.gitignore` to prevent accidental commits.
+
 
