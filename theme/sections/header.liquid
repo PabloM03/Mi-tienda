@@ -1,12 +1,55 @@
-{% comment %}Basic header converted from static HTML{% endcomment %}
+{% comment %}
+  Header with navigation and icons inspired by the original static site
+{% endcomment %}
 <header class="site-header">
-  <h1 class="site-logo"><a href="{{ shop.url }}">{{ shop.name }}</a></h1>
-  <nav class="main-nav">
-    <ul>
-      <li><a href="/collections/all">Shop</a></li>
-      <li><a href="/collections/configurator">Configurator</a></li>
-      <li><a href="/blogs/news">News</a></li>
-      <li><a href="/pages/policies">Policies</a></li>
-    </ul>
-  </nav>
+  <div class="header-inner">
+    <h1 class="site-logo">
+      <a href="{{ routes.root_url }}">
+        {% if settings.logo != blank %}
+          <img src="{{ settings.logo | img_url: '200x' }}" alt="{{ shop.name }}">
+        {% else %}
+          {{ shop.name }}
+        {% endif %}
+      </a>
+    </h1>
+    <nav class="primary-nav">
+      <ul>
+        <li class="has-submenu">
+          <a href="/collections/shop-all">Shop</a>
+          <ul class="submenu">
+            <li><a href="/collections/shop-all">Shop All</a></li>
+            <li><a href="/collections/daytona">Seitona</a></li>
+            <li><a href="/collections/datejust">Seikojust &amp; Oysteiko</a></li>
+            <li><a href="/collections/submariner-gmt">Seikomariner / GMTeiko</a></li>
+            <li><a href="/collections/royal-oak">Royal Seikoak</a></li>
+            <li><a href="/collections/santos-ballon-bleu">Santeiko</a></li>
+            <li><a href="/collections/nautilus-aquanaut">Nautiko &amp; Seikonaut</a></li>
+            <li><a href="/collections/panerai">Paneiko</a></li>
+            <li><a href="/collections/speedmaster-seamaster">Seikomaster &amp; Speedseiko</a></li>
+          </ul>
+        </li>
+        <li><a href="/collections/configurator">Configurator</a></li>
+        <li><a href="/pages/faq">FAQ</a></li>
+        <li><a href="/pages/contact-us">Contact</a></li>
+      </ul>
+    </nav>
+    <nav class="secondary-nav">
+      <a href="/account" class="icon-account">Account</a>
+      <a href="/search" class="icon-search">Search</a>
+      <a href="/cart" class="icon-cart">Cart</a>
+    </nav>
+  </div>
 </header>
+
+{% schema %}
+{
+  "name": "Header",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "logo",
+      "label": "Logo"
+    }
+  ]
+}
+{% endschema %}
