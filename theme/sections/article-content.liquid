@@ -5,6 +5,7 @@
   {% if article.image %}
     <img src="{{ article.image | img_url: '800x' }}" alt="{{ article.title }}">
   {% endif %}
+
   <div class="rte">{{ article.content }}</div>
 </section>
 
