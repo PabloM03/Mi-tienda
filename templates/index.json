@@ -1,0 +1,68 @@
+{
+    "sections": {
+        "section_1": {
+            "type": "section_1"
+        },
+        "section_2": {
+            "type": "section_2"
+        },
+        "section_3": {
+            "type": "section_3"
+        },
+        "section_4": {
+            "type": "section_4"
+        },
+        "section_5": {
+            "type": "section_5"
+        },
+        "section_6": {
+            "type": "section_6"
+        },
+        "section_7": {
+            "type": "section_7"
+        },
+        "section_8": {
+            "type": "section_8"
+        },
+        "section_9": {
+            "type": "section_9"
+        },
+        "section_10": {
+            "type": "section_10"
+        },
+        "section_11": {
+            "type": "section_11"
+        },
+        "section_12": {
+            "type": "section_12"
+        },
+        "section_13": {
+            "type": "section_13"
+        },
+        "section_14": {
+            "type": "section_14"
+        },
+        "section_15": {
+            "type": "section_15"
+        }
+    },
+    "layout": "theme",
+    "wrapper": "",
+    "order": [
+        "section_1",
+        "section_2",
+        "section_3",
+        "section_4",
+        "section_5",
+        "section_6",
+        "section_7",
+        "section_8",
+        "section_9",
+        "section_10",
+        "section_11",
+        "section_12",
+        "section_13",
+        "section_14",
+        "section_15"
+    ]
+}
