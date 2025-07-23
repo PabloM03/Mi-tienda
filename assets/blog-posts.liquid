@@ -1,0 +1,12 @@
+{% layout 'blog-posts' %}
+{% comment %}Blog listing with article excerpts and images{% endcomment %}
+<section class="blog"><h1>{{ blog.title }}</h1><ul class="article-list">{% for article in blog.articles %}
+      <li class="article-item">{% if article.image %}
+          <a href="{{ article.url }}"><img src="{{ article.image | img_url: '400x' }}" alt="{{ article.title }}">
+</a>{% endif %}
+        <h2><a href="{{ article.url }}">{{ article.title }}</a></h2><p class="article-date">{{ article.published_at | date: "%B %d, %Y" }}</p><div class="rte">{{ article.excerpt_or_content | truncatewords: 30 }}</div><a href="{{ article.url }}" class="btn">Read more</a></li>{% endfor %}
+  </ul></section>{% schema %}
+{
+  "name": "Blog posts"
+}
+{% endschema %}

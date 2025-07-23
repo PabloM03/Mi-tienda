@@ -1,0 +1,35 @@
+{% layout 'header' %}
+{% comment %}
+  Header with navigation and icons inspired by the original static site
+{% endcomment %}
+<header class="site-header"><div class="header-inner"><h1 class="site-logo"><a href="{{ routes.root_url }}">{% if settings.logo != blank %}
+          <img src="{{ settings.logo | img_url: '200x' }}" alt="{{ shop.name }}">
+{% else %}
+          {{ shop.name }}
+        {% endif %}
+      </a></h1><nav class="primary-nav"><ul>{% assign menu = linklists[section.settings.main_menu] %}
+        {% for link in menu.links %}
+          <li if="" link.links.size="">0 %} class="has-submenu"{% endif %}>
+            <a href="{{ link.url }}">{{ link.title }}</a>{% if link.links.size > 0 %}
+              <ul class="submenu">{% for child in link.links %}
+                  <li><a href="{{ child.url }}">{{ child.title }}</a></li>{% endfor %}
+              </ul>{% endif %}
+          </li>{% endfor %}
+      </ul></nav><nav class="secondary-nav"><a href="/account" class="icon-account">Account</a><a href="/search" class="icon-search">Search</a><a href="/cart" class="icon-cart">Cart</a></nav></div></header>{% schema %}
+{
+  "name": "Header",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "logo",
+      "label": "Logo"
+    },
+    {
+      "type": "link_list",
+      "id": "main_menu",
+      "label": "Main menu",
+      "default": "main-menu"
+    }
+  ]
+}
+{% endschema %}
