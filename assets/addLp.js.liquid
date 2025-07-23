@@ -1,0 +1,8 @@
+const fs = require('fs'), path = require('path');
+const walk = p => fs.statSync(p).isDirectory()
+  ? fs.readdirSync(p).forEach(f=>walk(path.join(p,f)))
+  : p.endsWith('.html') && fs.writeFileSync(
+      p,
+      fs.readFileSync(p,'utf8').replace('<body','<body lp-main')
+    );
+walk(process.argv[2]);
