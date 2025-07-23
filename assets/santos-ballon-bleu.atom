@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://moddys-watches.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://moddys-watches.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://moddys-watches.com/collections/santos-ballon-bleu.atom"/>
+  <title>Moddys Custom Watches</title>
+  <updated>2025-05-13T03:52:48+02:00</updated>
+  <author>
+    <name>Moddys Custom Watches</name>
+  </author>
+  <entry>
+    <id>https://moddys-watches.com/products/11996855501140</id>
+    <published>2025-05-13T03:52:48+02:00</published>
+    <updated>2025-05-13T03:52:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-rose-gold-brown-copia-25"/>
+    <title>Santeiko | White Fck 9 to 5</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/SeikoModSantosFuck9to54_c4cdc000-cbbf-400d-b748-b6dee1b3210a.webp?v=1747101201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996855501140</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996855304532</id>
+    <published>2025-05-13T03:52:16+02:00</published>
+    <updated>2025-05-13T03:52:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-rose-gold-brown-25"/>
+    <title>Santeiko | Rose Gold - Brown</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-rose-gold-brown-moddys-watches-cartier-39mm3_62dffea4-5af1-4474-a158-281f8d6958d2.webp?v=1747101164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996855304532</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996845965652</id>
+    <published>2025-05-13T03:38:11+02:00</published>
+    <updated>2025-05-13T03:38:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-santos-white-25"/>
+    <title>Santeiko | White</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-white-moddys-watches-cartier-39mm2_fc9f4182-d6e7-4405-94ed-9661231b4ede.webp?v=1747100322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996845965652</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996845965652</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996831056212</id>
+    <published>2025-05-13T03:24:53+02:00</published>
+    <updated>2025-05-13T03:24:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-santos-gold-silver-25"/>
+    <title>Santeiko | Gold - Silver</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-gold-silver-moddys-watches-cartier-39mm3_79309b7e-d1f2-4a69-bef5-a9977aa720f9.webp?v=1747099519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-gold</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831056212</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996831056212</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996829745492</id>
+    <published>2025-05-13T03:14:20+02:00</published>
+    <updated>2025-05-13T03:14:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-santos-black-25"/>
+    <title>Santeiko | Black</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-black-moddys-watches-cartier-39mm3_1ecccde4-a79e-4d03-9574-15cec6e7ee44.webp?v=1747098888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829745492</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996829745492</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943200817492</id>
+    <published>2025-04-10T18:59:53+02:00</published>
+    <updated>2025-04-10T18:59:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-arabic-fck-9-to-5-3"/>
+    <title>Santeiko | Arabic Fck 9 to 5</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/Seiko_Mod_Santos_Arabic_Fuck_9_to_53_ef4c408f-8f09-4f10-b95f-8b9757608c4f.webp?v=1744524553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943200817492</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943196361044</id>
+    <published>2025-04-10T18:59:19+02:00</published>
+    <updated>2025-04-10T18:59:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-black-ghost-arabic-3"/>
+    <title>Santeiko | Black Ghost Arabic</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-balck-ghost-arabic-moddys-watches-cartier-39mm3.webp?v=1744524454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943196361044</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943191445844</id>
+    <published>2025-04-10T18:58:43+02:00</published>
+    <updated>2025-04-10T18:58:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-black-ghost-arabic-copia-3"/>
+    <title>Santeiko | Black Fck 9 to 5</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/SeikoModSantosBlackFuck9to53_b0e75cc5-3633-49f2-878c-5886fe3a7a0a.webp?v=1744524351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943191445844</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943176307028</id>
+    <published>2025-04-10T18:56:58+02:00</published>
+    <updated>2025-04-10T18:56:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-white-fck-9-to-5-copia-3"/>
+    <title>Santeiko | White Skeleton</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-white-skeleton-moddys-watches-cartier-39mm3.webp?v=1744524045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            2319.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH70 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH70 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943176307028</id>
+      <title>No logo</title>
+      <s:price currency="EUR">2319.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943176307028</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">2319.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943172342100</id>
+    <published>2025-04-10T18:56:24+02:00</published>
+    <updated>2025-04-10T18:56:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-white-fck-9-to-5-copia-1-3"/>
+    <title>Santeiko | White Blue Leather</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-white-blue-leather-moddys-watches-cartier-39mm3.webp?v=1744523939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> Leather (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943172342100</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943170507092</id>
+    <published>2025-04-10T18:55:47+02:00</published>
+    <updated>2025-04-10T18:55:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-white-brown-leather-3"/>
+    <title>Santeiko | White Brown Leather</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-white-brown-leather-moddys-watches-cartier-39mm3.webp?v=1744523837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> Leather (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943170507092</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11943166247252</id>
+    <published>2025-04-10T18:55:08+02:00</published>
+    <updated>2025-04-10T18:55:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/santeiko-arabic-white-3"/>
+    <title>Santeiko | Arabic White</title>
+    <s:type>Santos</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-santeiko-arabic-white-moddys-watches-cartier-39mm3.webp?v=1744523740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Santos<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Santos design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Santos. <b>A 38 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 38mm (excluding the crown) </span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a butterfly style security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-santos-watch</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943166247252</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11943166247252</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
