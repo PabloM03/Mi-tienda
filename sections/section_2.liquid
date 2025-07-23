@@ -1,0 +1,74 @@
+<div class="section-spacing color-scheme color-scheme--scheme-1 color-scheme--bg-54922f2e920ba8346f6dc0fba343d673"><div class="container"><div class="text-center"><style>.extra-bold {
+    font-weight: 900;
+  }
+
+  .promo-banner {
+    display: none;
+    padding: 50px 12px;
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: sans-serif;
+  }
+
+  #promo-banner-tiktok {
+    background: #fbeeca;
+  }
+
+  #promo-banner-snapchat {
+    background: #e0f7fa;
+  }
+       </style><div class="promo-banner" id="promo-banner-tiktok">📱
+        <span class="extra-bold">SPECIAL TIKTOK OFFER
+        </span>:
+        <br>
+€50 off with the code
+        <span class="extra-bold">TIKTOK50
+        </span><br>
+Expires in:
+        <span id="countdown-tiktok"></span></div><div class="promo-banner" id="promo-banner-snapchat"><span class="extra-bold">SNAPCHAT EXCLUSIVE OFFER
+        </span>:
+        <br>
+€50 off with the code
+        <span class="extra-bold">SNAP50
+        </span><br>
+Expires in:
+        <span id="countdown-snapchat"></span></div><script>(function () {
+    const utm = localStorage.getItem('utm_source');
+    const startTime = parseInt(localStorage.getItem('promo_start_time'), 10);
+    const countdownEndDate = startTime + 69300000; // 19h15min
+
+    function updateCountdown() {
+      const now = new Date().getTime();
+      const distance = countdownEndDate - now;
+
+      if (distance < 0) {
+        if (utm === 'tiktok') {
+          document.getElementById('promo-banner-tiktok')?.style.setProperty('display', 'block');
+          document.getElementById('countdown-tiktok').innerText = 'Offer expired';
+        } else if (utm === 'snapchat') {
+          document.getElementById('promo-banner-snapchat')?.style.setProperty('display', 'block');
+          document.getElementById('countdown-snapchat').innerText = 'Offer expired';
+        }
+        return;
+      }
+
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      const countdownText = `${hours}h ${minutes}m ${seconds}s`;
+
+      if (utm === 'tiktok') {
+        document.getElementById('promo-banner-tiktok')?.style.setProperty('display', 'block');
+        document.getElementById('countdown-tiktok').innerText = countdownText;
+      } else if (utm === 'snapchat') {
+        document.getElementById('promo-banner-snapchat')?.style.setProperty('display', 'block');
+        document.getElementById('countdown-snapchat').innerText = countdownText;
+      }
+    }
+
+    updateCountdown();
+    setInterval(updateCountdown, 1000);
+  })();
+       </script></div></div></div> {% schema %} {"tag":"section","name":"section-2","class":"shopify-section shopify-section--custom-liquid","presets":[{"name":"section-2","category":"Liquify","blocks":[]}]} {% endschema %}
