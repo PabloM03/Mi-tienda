@@ -1,0 +1,4 @@
+{% layout 'collection.shop-allfb1c' %}
+{% comment %}Generated from collections/shop-allfb1c.html{% endcomment %}
+<h1>{{ collection.title }}</h1>{% for product in collection.products %}
+  <div><a href="{{ product.url }}">{{ product.title }}</a></div>{% endfor %}
