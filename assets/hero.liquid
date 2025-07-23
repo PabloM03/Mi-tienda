@@ -1,0 +1,17 @@
+{% layout 'hero' %}
+{% comment %}Hero section converted from static homepage{% endcomment %}
+<div class="hero" if="" section.settings.image="" blank="" img_url:="" endif=""><h2>{{ section.settings.title }}</h2><p>{{ section.settings.text }}</p>{% if section.settings.button_label != blank and section.settings.button_link != blank %}
+  <a href="{{ section.settings.button_link }}" class="btn">{{ section.settings.button_label }}</a>{% endif %}
+</div>{% schema %}
+{
+  "name": "Hero",
+  "settings": [
+    {"type": "text", "id": "title", "label": "Title", "default": "Welcome"},
+    {"type": "textarea", "id": "text", "label": "Text", "default": "Your store description"},
+    {"type": "image_picker", "id": "image", "label": "Background image"},
+    {"type": "text", "id": "button_label", "label": "Button label"},
+    {"type": "url", "id": "button_link", "label": "Button link"}
+  ],
+  "presets": [{"name": "Hero"}]
+}
+{% endschema %}

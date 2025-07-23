@@ -1,0 +1,8 @@
+{% layout 'theme' %}
+<p>{{ content_for_header }}
+  {{ 'style.css' | asset_url | stylesheet_tag }}
+
+</p>{% section 'header' %}
+  {{ content_for_layout }}
+  {% section 'footer' %}
+
