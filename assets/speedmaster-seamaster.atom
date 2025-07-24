@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://moddys-watches.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://moddys-watches.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://moddys-watches.com/collections/speedmaster-seamaster.atom"/>
+  <title>Moddys Custom Watches</title>
+  <updated>2025-05-13T03:53:24+02:00</updated>
+  <author>
+    <name>Moddys Custom Watches</name>
+  </author>
+  <entry>
+    <id>https://moddys-watches.com/products/11996855697748</id>
+    <published>2025-05-13T03:53:24+02:00</published>
+    <updated>2025-05-13T03:53:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/speedseiko-snoopy-blue-25"/>
+    <title>Speedseiko | Snoopy Blue</title>
+    <s:type>Speedmaster</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-speedmaster-blue-chrono-moddys-watches-omega3_cb4b78f5-41cf-4e05-ae07-d67a108879a1.webp?v=1747101230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Speedmaster<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Speedmaster design</b>, and featuring the prestigious <b>Seiko VK63 hybrid movement</b>, we present the Seiko Mod Speedmaster. <b>A 41 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled</b> <b>by experts </b>with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 41mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko VK63 hybrid movement (combines automatic with quartz)</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Curved acrylic</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Aluminium</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> Rubber (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+<li><span class="s1"><b>Functional chronograph and subdials:</b> Yes</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-speedmaster</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:tag>Watches</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996855697748</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Battery Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996855697748</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Battery Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841738580</id>
+    <published>2025-05-13T03:31:10+02:00</published>
+    <updated>2025-05-13T03:31:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-seamaster-blue-dial-25"/>
+    <title>Seikomaster | Blue</title>
+    <s:type>Seamaster</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-seamaster-blue-moddys-watches-omega3_9d212af8-681a-4aa8-b3a8-dcccfdd821ff.webp?v=1747099898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Seamaster<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Seamaster design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Seamaster. <b>A 41 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 41mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+<li><span class="s1"><b>Helium valve:</b> Decorative</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-seamaster-blue-dial</s:tag>
+    <s:tag>Watches</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841738580</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841738580</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996841705812</id>
+    <published>2025-05-13T03:30:41+02:00</published>
+    <updated>2025-05-13T03:30:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-seamaster-james-bond-007-25"/>
+    <title>Seikomaster | James Bond 007</title>
+    <s:type>Seamaster</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-seamaster-james-bond-moddys-watches-omega3_0388aaea-24cc-4a97-bd8c-ab495a7d2342.webp?v=1747099867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Seamaster<br>
+        <strong>Price: </strong>
+            299.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Seamaster design</b>, and featuring the prestigious <b>Seiko NH35 automatic movement</b>, we present the Seiko Mod Seamaster. <b>A 41 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled by experts</b> with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 41mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko NH35 automatic movement</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Sapphire, anti-scratch with anti-reflective treatment</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Ceramic</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Crystal (seen movement)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+<li><span class="s1"><b>Helium valve:</b> Decorative</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-seamaster-black-points-dial</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:tag>Watches</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841705812</id>
+      <title>No logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996841705812</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">299.95</s:price>
+      <s:sku>Automatic Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://moddys-watches.com/products/11996830990676</id>
+    <published>2025-05-13T03:23:54+02:00</published>
+    <updated>2025-05-13T03:23:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://moddys-watches.com/products/seiko-mod-speedmaster-black-25"/>
+    <title>Speedseiko | Black</title>
+    <s:type>Speedmaster</s:type>
+    <s:vendor>Moddys Custom Watches</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0798/9061/2564/files/seiko-mod-speedmaster-black-chrono-moddys-watches-omega3_eab8340f-06e5-47a1-bac3-da18388c4523.webp?v=1747099461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moddys Custom Watches<br>
+        <strong>Type: </strong>Speedmaster<br>
+        <strong>Price: </strong>
+            279.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">Inspired by the <b>iconic Speedmaster design</b>, and featuring the prestigious <b>Seiko VK63 hybrid movement</b>, we present the Seiko Mod Speedmaster. <b>A 41 mm high-end quality watch</b> combining the perfect alliance between excellence and accessibility.</span><span class="s1"></span></p>
+<p class="p1"><span class="s1">Carefully<b> hand-assembled</b> <b>by experts </b>with the next features:</span><span class="s1"></span></p>
+<ul>
+<li><span class="s1"><b>Diameter:</b> 41mm (excluding the crown)</span></li>
+<li><span class="s1"><b>Movement:</b> Seiko VK63 hybrid movement (combines automatic with quartz)</span></li>
+<li><span class="s1"><b>Thickness:</b> 12mm</span></li>
+<li><span class="s1"><b>Glass:</b> Curved acrylic</span></li>
+<li><span class="s1"><b>Luminova:</b> Yes</span></li>
+<li><span class="s1"><b>Case:</b> 316L stainless steel</span></li>
+<li><span class="s1"><b>Crown:</b> Screwed</span></li>
+<li><span class="s1"><b>Bezel:</b> Aluminium</span></li>
+<li><span class="s1"><b>Wrist size:</b> 14,5cm to 22cm (adjustable)</span></li>
+<li><span class="s1"><b>Lugs:</b> 20mm</span></li>
+<li><span class="s1"><b>Bracelet:</b> 316L stainless steel (with a security clasp)</span></li>
+<li><span class="s1"><b>Case back:</b> Steel (closed back)</span></li>
+<li><span class="s1"><b>Water resistance:</b> 3 ATM</span></li>
+<li><span class="s1"><b>Functional chronograph and subdials:</b> Yes</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>seiko-mod-speedmaster</s:tag>
+    <s:tag>stock-new-year</s:tag>
+    <s:tag>Watches</s:tag>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996830990676</id>
+      <title>No logo</title>
+      <s:price currency="EUR">279.95</s:price>
+      <s:sku>Battery Watch-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://moddys-watches.com/products/11996830990676</id>
+      <title>Seiko logo</title>
+      <s:price currency="EUR">279.95</s:price>
+      <s:sku>Battery Watch-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
